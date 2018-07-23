@@ -1,0 +1,13 @@
+#bg {
+    background-size: auto 100vh;
+}
+
+#overlay {
+	background-image: none;
+}
+
+#header {
+    background-color: #0000005c;
+    padding: 6vh;
+    border-radius: 5px;
+}
